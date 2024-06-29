@@ -12,5 +12,5 @@ Developed an Instagram bot that automatically creates and posts reels videos at 
 - Post Reels
 - Post Content
 - Change Profile
-- Run Schedule
+- Automatically create and post Reels videos
 - User friendly interface ^^
